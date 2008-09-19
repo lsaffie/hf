@@ -1,0 +1,20 @@
+; $Id: bluemarine.info,v 1.4 2007/06/08 05:50:57 dries Exp $
+name = HF
+description = HF Bluemarine
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+; Information added by drupal.org packaging script on 2008-08-14
+version = "6.4"
+project = "drupal"
+datestamp = "1218672610"
+
+regions[left] = Left sidebar
+regions[right] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[projects] = Projects
+regions[methods] = Methods
+regions[research] = Research
