@@ -34,6 +34,18 @@ padding-top: 2%;
 padding-left: 3%;
 }
 
+#navlist li.active {
+color: #C9E3F2;
+}
+
+#navigation-primary ul.primary-links li a.active-trail {
+background-color:# example;
+background-repeat: example;
+color:# example;
+}
+
+
+
 .top_body {
 float: left;
 width: 100%;
